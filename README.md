@@ -21,3 +21,4 @@ npm run restore
 
 ## Examples
 - [Integrating external JS library with Wolfram Kernel](https://github.com/JerryI/wljs-plugin-example-1)
+- [Creating Evaluate All button and working with cells](https://github.com/JerryI/wljs-plugin-example-2)
