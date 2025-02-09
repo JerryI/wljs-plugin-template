@@ -8,10 +8,10 @@
     "description": "An example plugin for WLJS Notebook",
     "wljs-meta": {
         "frontend": [
-            "Frontend.wl"
+            "src/Frontend.wl"
         ],
         "kernel": [
-            "Kernel.wl"
+            "src/Kernel.wl"
         ],
         "js": "dist/kernel.js",
         "priority": 5000,
