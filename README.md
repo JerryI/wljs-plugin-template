@@ -18,3 +18,6 @@ To restore `.git`
 ```bash
 npm run restore
 ```
+
+## Examples
+- [Integrating external JS library with Wolfram Kernel](https://github.com/JerryI/wljs-plugin-example-1)
